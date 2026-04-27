@@ -14,7 +14,6 @@ A full-stack chit fund management system built using Spring Boot.
 - Java
 - Spring Boot
 - Hibernate (JPA)
-- MySQL
 - HTML, CSS, JavaScript
 
 ## 📊 Dashboard Includes
@@ -31,7 +30,7 @@ A full-stack chit fund management system built using Spring Boot.
    http://localhost:8075
 
 ## 📌 Future Improvements
-- Login & Authentication
+- Login & Authenticat
 - Role-based access (Admin/User)
 - UI upgrade (React)
 - Reports & Analytics
